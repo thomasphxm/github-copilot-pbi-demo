@@ -1,4 +1,4 @@
 prompt: >-
 	Create relationships for the semantic model.
-  Here is an example format: # of sales
+  Here is an example format: # of x
   Wrap measures in CALCULATE()
