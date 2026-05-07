@@ -1,0 +1,6 @@
+prompt: >-
+	Clean up the semantic model for end users.
+  Remove any unnecessary columns from the dimension tables.
+  Hide any technical columns that are not useful for business users.
+  Remove the summarizeBy property from any columns.
+  Group measures where appropriate.

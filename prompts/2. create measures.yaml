@@ -1,0 +1,4 @@
+prompt: >-
+	Create relationships for the semantic model.
+  Here is an example format: # of sales
+  Wrap measures in CALCULATE()

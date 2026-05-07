@@ -1,0 +1,4 @@
+prompt: >-
+	The semantic model contains a fact table called Sale.
+	It also contains multiple dimension tables.
+	Ensure that all dimension tables are correctly connected to the fact table.
