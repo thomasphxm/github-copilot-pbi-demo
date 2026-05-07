@@ -1,0 +1,8 @@
+prompt: >-
+  Update the semantic model end-to-end for business-ready reporting.
+  1) Relationships: treat Sale as the fact table and connect all available dimension tables to Sale (including role-playing Date relationships where relevant).
+  2) Measures: create count measures using '# of x' naming and value measures using '$ x' naming; wrap every measure in CALCULATE(). Capitalise names.
+  3) Descriptions: add clear business-friendly descriptions for all generated measures.
+  4) Cleanup: remove unnecessary columns from dimension tables, hide technical columns/keys, and disable auto-summarization by setting summarizeBy to none where appropriate.
+  5) Organization and formatting: group measures into sensible display folders (for example Sales Volume or Revenue) and apply appropriate number/currency/date formats to columns and measures.
+  Keep changes concise, consistent, and safe for existing report usage.
