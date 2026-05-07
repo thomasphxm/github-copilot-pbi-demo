@@ -4,4 +4,4 @@ prompt: >-
   Hide any technical columns that are not useful for business users.
   Disable auto-summarization and summarizeBy.
   Group measures where appropriate.
-  Format measures and columns as appropriate.
+  Provide explicit formatting for measures and columns so they are ready for reporting.
